@@ -4,10 +4,12 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rakesh-ada/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rakesh-ada/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -25,4 +27,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rakesh-ada/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
