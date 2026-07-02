@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Rakesh-ada/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rakesh-ada/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -31,8 +32,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Rakesh-ada/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/Rakesh-ada/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
