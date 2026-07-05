@@ -45,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rakesh-ada/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rakesh-ada/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh-ada/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Rakesh-ada/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rakesh-ada/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rakesh-ada/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
@@ -63,5 +64,10 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Rakesh-ada/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh-ada/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Rakesh-ada/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rakesh-ada/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Rakesh-ada/leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
