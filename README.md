@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/Rakesh-ada/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Rakesh-ada/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rakesh-ada/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rakesh-ada/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rakesh-ada/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rakesh-ada/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
