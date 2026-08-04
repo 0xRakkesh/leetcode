@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rakesh-ada/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Rakesh-ada/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Rakesh-ada/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Rakesh-ada/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -89,4 +90,12 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rakesh-ada/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Rakesh-ada/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Rakesh-ada/leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Rakesh-ada/leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
