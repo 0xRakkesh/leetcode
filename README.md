@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/Rakesh-ada/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Rakesh-ada/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Rakesh-ada/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-ada/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Rakesh-ada/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Rakesh-ada/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -18,6 +19,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-ada/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rakesh-ada/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rakesh-ada/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
@@ -80,6 +82,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Rakesh-ada/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rakesh-ada/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-ada/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Rakesh-ada/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rakesh-ada/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
